@@ -31,7 +31,7 @@ This package fetches the paper from its local installation or a GitHub-hosted ve
 
 ## 🔗 Additional Resources
 - Original Paper: ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
-- GitHub Repository: [Check it out here!](https://github.com/Rktim/attention)
+
 
 ## 📝 Contributing
 Got ideas to improve this? PRs are welcome! Let’s make reading research papers easier together. 🤝
