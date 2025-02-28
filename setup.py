@@ -12,6 +12,6 @@ setup(
         ],
     },
     package_data={
-        "attention_paper": ["data/attention_is_all_you_need.pdf"],
+        "attention_paper": ["data/attentionalluneed.pdf"],
     },
 )
