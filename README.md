@@ -1,13 +1,44 @@
-# Attention Paper CLI 📜
+# 📖 Attention Is All You Need - Instantly Open the Paper!
 
-**A simple Python package that lets you access the "Attention Is All You Need" paper with a single command.**
+Ever wanted to read the legendary "Attention Is All You Need" paper without hunting it down? Now you can—just type a single command! This package lets you open the paper instantly in your browser. 🚀✨
 
-## 📌 Features
-- Instantly open the **"Attention Is All You Need"** paper in your browser.
-- Easy installation via `pip`.
-- Works on Windows, Mac, and Linux.
+## 🔥 Features
+- 📂 No more searching—open the paper instantly from anywhere!
+- 🏃 Super fast and easy to use.
+- 🐍 Works on any Python environment.
 
-## 🚀 Installation
-Install the package using `pip`:
+## 🎯 Installation
+
+Get started in seconds! Simply install the package via pip:
+
 ```sh
-pip install attention-paper-cli
+pip install attention-paper
+```
+
+## 🚀 How to Use
+
+Just run the following command in your terminal:
+
+```sh
+attention
+```
+
+And BOOM! 💥 The paper opens in your default browser. No hassle, no wasted time.
+
+## 🛠️ How It Works
+
+This package fetches the paper from its local installation or a GitHub-hosted version and opens it in your browser. If the local file is missing, it provides a direct link to the GitHub version.
+
+## 🔗 Additional Resources
+- Original Paper: ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)
+- GitHub Repository: [Check it out here!](https://github.com/Rktim/attention)
+
+## 📝 Contributing
+Got ideas to improve this? PRs are welcome! Let’s make reading research papers easier together. 🤝
+
+## ❤️ Support
+If you find this tool useful, give it a ⭐ on GitHub! Every star motivates me to create more awesome tools. 🌟
+
+---
+📢 *"Attention is all you need... and now it's just a command away!"* 🚀
+
