@@ -6,6 +6,11 @@ Ever wanted to read the legendary "Attention Is All You Need" paper without hunt
 - 📂 No more searching—open the paper instantly from anywhere!
 - 🏃 Super fast and easy to use.
 - 🐍 Works on any Python environment.
+---
+![PyPI](https://img.shields.io/pypi/v/attention-paper)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/attention-paper)
+![Downloads](https://static.pepy.tech/personalized-badge/attention-paper?period=month&units=international_system&left_color=black&right_color=blue&left_text=Monthly Downloads)
+---
 
 ## 🎯 Installation
 
