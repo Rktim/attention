@@ -25,7 +25,7 @@ setup(
     packages=find_packages(),
     description="CLI to list and open high-impact AI research papers (Transformers, LLMs, MCP, etc.)",
     long_description="attention is a research paper loader for Transformer and post-Attention-Is-All-You-Need era AI research.",
-    author="Your Name",
+    author="Raktim Kalita",
     py_modules=["main"],
     install_requires=[],
     entry_points={
