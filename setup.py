@@ -21,7 +21,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="attention",
-    version="0.3.0",
+    version="0.2.1",
     packages=find_packages(),
     description="CLI to list and open high-impact AI research papers (Transformers, LLMs, MCP, etc.)",
     long_description="attention is a research paper loader for Transformer and post-Attention-Is-All-You-Need era AI research.",
